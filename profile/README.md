@@ -1,10 +1,10 @@
 # Open Urban Apps
 
-**We make proven municipal data solutions shareable and installable - so no municipality has to start from scratch.**
+**An open-source marketplace extension for [CIVITAS/CORE](https://www.civitasconnect.digital/civitas-core/) that packages municipal data use cases — data models, sources, pipelines, and dashboards — for one-click installation.**
 
-Municipalities, utilities and water boards keep solving the same data problems side by side: a tree register here, a traffic count there, each one built from nothing and rebuilt in the next town. Open Urban Apps turns a working use case into a package someone else can install - data model, sources, mapping, pipeline and dashboard in a single step.
+Municipalities, utilities and water boards keep solving the same data problems side by side: a tree register here, a traffic count there, each one built from scratch and rebuilt in the next town. Open Urban Apps turns a working use case into an installable package so other municipalities can reuse existing solutions.
 
-Built on [CIVITAS/CORE](https://www.civitasconnect.digital/civitas-core/) v2 and funded by the Prototype Fund.
+Funded by the Prototype Fund.
 
 → **[openurbanapps.org](https://openurbanapps.org)**
 
